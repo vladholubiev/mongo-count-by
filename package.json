@@ -13,7 +13,7 @@
   "author": "Vlad Holubiev",
   "license": "MIT",
   "dependencies": {
-    "mongodb": "^2.2.26"
+    "mongodb": "^3.1.13"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
